@@ -1,0 +1,30 @@
+<persons>
+
+	<person id="1">
+		<name>John Doe</name>
+		<address> H# 38,R#3,Banani, Dhaka</address>
+		<Department>Sales</department>
+		<salary>$200000</salary>
+
+	</person>
+
+
+
+	<person id="2">
+		<name>Mark Zukarberg</name>
+		<address>Flat#a/1 H# 20,R#18,Mirpur, Dhaka</address>
+		<Department>Accounts</department>
+		<salary>$120000</salary>
+
+	</person>
+
+
+	<person id="3">
+		<name>Ala Voski</name>
+		<address> H# 38,R#3, Motijiheel</address>
+		<Department>Human Resources</department>
+		<salary>$300000</salary>
+
+	</person>
+
+</persons>
